@@ -1,0 +1,1043 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FichaAvaliacao.API</name>
+    </assembly>
+    <members>
+        <member name="T:FichaAvaliacao.API.Application.CommandHandler.CadastroCommandHandler">
+            <summary>
+            Classe Command Handler 
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddADMCommand">
+            <summary>
+            Classe Command para ADM
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddADMCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddADMCommand.ADMValidation">
+            <summary>
+            Classe de validação da ADM
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddADMCommand.ADMValidation.#ctor">
+            <summary>
+            Contrutor para validacao de ADM
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdADMCommand">
+            <summary>
+            Classe Command para ADM
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdADMCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdADMCommand.ADMValidation">
+            <summary>
+            Classe de validação da ADM
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdADMCommand.ADMValidation.#ctor">
+            <summary>
+            Contrutor para validacao de ADM
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddAnamneseCommand">
+            <summary>
+            Classe Command para Anamnese
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddAnamneseCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddAnamneseCommand.AnamneseValidation">
+            <summary>
+            Classe de validação da Anamnese
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddAnamneseCommand.AnamneseValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Anamnese
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdAnamneseCommand">
+            <summary>
+            Classe Command para Anamnese
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdAnamneseCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdAnamneseCommand.AnamneseValidation">
+            <summary>
+            Classe de validação da Anamnese
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdAnamneseCommand.AnamneseValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Anamnese
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddAntecedentesFamiliaresCommand">
+            <summary>
+            Classe Command para AntecedentesFamiliares
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddAntecedentesFamiliaresCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddAntecedentesFamiliaresCommand.AntecedentesFamiliaresValidation">
+            <summary>
+            Classe de validação da AntecedentesFamiliares
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddAntecedentesFamiliaresCommand.AntecedentesFamiliaresValidation.#ctor">
+            <summary>
+            Contrutor para validacao de AntecedentesFamiliares
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdAntecedentesFamiliaresCommand">
+            <summary>
+            Classe Command para AntecedentesFamiliares
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdAntecedentesFamiliaresCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdAntecedentesFamiliaresCommand.AntecedentesFamiliaresValidation">
+            <summary>
+            Classe de validação da AntecedentesFamiliares
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdAntecedentesFamiliaresCommand.AntecedentesFamiliaresValidation.#ctor">
+            <summary>
+            Contrutor para validacao de AntecedentesFamiliares
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddAntecedentesPessoaisCommand">
+            <summary>
+            Classe Command para AntecedentesPessoais
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddAntecedentesPessoaisCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddAntecedentesPessoaisCommand.AntecedentesPessoaisValidation">
+            <summary>
+            Classe de validação da AntecedentesPessoais
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddAntecedentesPessoaisCommand.AntecedentesPessoaisValidation.#ctor">
+            <summary>
+            Contrutor para validacao de AntecedentesPessoais
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdAntecedentesPessoaisCommand">
+            <summary>
+            Classe Command para AntecedentesPessoais
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdAntecedentesPessoaisCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdAntecedentesPessoaisCommand.AntecedentesPessoaisValidation">
+            <summary>
+            Classe de validação da AntecedentesPessoais
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdAntecedentesPessoaisCommand.AntecedentesPessoaisValidation.#ctor">
+            <summary>
+            Contrutor para validacao de AntecedentesPessoais
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddAvaliacaoSubjetivaDorCommand">
+            <summary>
+            Classe Command para AvaliacaoSubjetivaDor
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddAvaliacaoSubjetivaDorCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddAvaliacaoSubjetivaDorCommand.AvaliacaoSubjetivaDorValidation">
+            <summary>
+            Classe de validação da AvaliacaoSubjetivaDor
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddAvaliacaoSubjetivaDorCommand.AvaliacaoSubjetivaDorValidation.#ctor">
+            <summary>
+            Contrutor para validacao de AvaliacaoSubjetivaDor
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdAvaliacaoSubjetivaDorCommand">
+            <summary>
+            Classe Command para AvaliacaoSubjetivaDor
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdAvaliacaoSubjetivaDorCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdAvaliacaoSubjetivaDorCommand.AvaliacaoSubjetivaDorValidation">
+            <summary>
+            Classe de validação da AvaliacaoSubjetivaDor
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdAvaliacaoSubjetivaDorCommand.AvaliacaoSubjetivaDorValidation.#ctor">
+            <summary>
+            Contrutor para validacao de AvaliacaoSubjetivaDor
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddCadastroCommand">
+            <summary>
+            Classe Command para Cadastro
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddCadastroCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddCadastroCommand.CadastroValidation">
+            <summary>
+            Classe de validação da Cadastro
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddCadastroCommand.CadastroValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Cadastro
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdCadastroCommand">
+            <summary>
+            Classe Command para Cadastro
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdCadastroCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdCadastroCommand.CadastroValidation">
+            <summary>
+            Classe de validação da Cadastro
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdCadastroCommand.CadastroValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Cadastro
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddEnderecoCommand">
+            <summary>
+            Classe Command para Endereco
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddEnderecoCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddEnderecoCommand.EnderecoValidation">
+            <summary>
+            Classe de validação da Endereco
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddEnderecoCommand.EnderecoValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Endereco
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdEnderecoCommand">
+            <summary>
+            Classe Command para Endereco
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdEnderecoCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdEnderecoCommand.EnderecoValidation">
+            <summary>
+            Classe de validação da Endereco
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdEnderecoCommand.EnderecoValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Endereco
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddEstadoCommand">
+            <summary>
+            Classe Command para Estado
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddEstadoCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddEstadoCommand.EstadoValidation">
+            <summary>
+            Classe de validação da Estado
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddEstadoCommand.EstadoValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Estado
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdEstadoCommand">
+            <summary>
+            Classe Command para Estado
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdEstadoCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdEstadoCommand.EstadoValidation">
+            <summary>
+            Classe de validação da Estado
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdEstadoCommand.EstadoValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Estado
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddEvolucaoCommand">
+            <summary>
+            Classe Command para Evolucao
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddEvolucaoCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddEvolucaoCommand.EvolucaoValidation">
+            <summary>
+            Classe de validação da Evolucao
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddEvolucaoCommand.EvolucaoValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Evolucao
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdEvolucaoCommand">
+            <summary>
+            Classe Command para Evolucao
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdEvolucaoCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdEvolucaoCommand.EvolucaoValidation">
+            <summary>
+            Classe de validação da Evolucao
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdEvolucaoCommand.EvolucaoValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Evolucao
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddExameFisicoCommand">
+            <summary>
+            Classe Command para ExameFisico
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddExameFisicoCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddExameFisicoCommand.ExameFisicoValidation">
+            <summary>
+            Classe de validação da Avaliacao
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddExameFisicoCommand.ExameFisicoValidation.#ctor">
+            <summary>
+            Contrutor para validacao de ExameFisico
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdExameFisicoCommand">
+            <summary>
+            Classe Command para ExameFisico
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdExameFisicoCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdExameFisicoCommand.ExameFisicoValidation">
+            <summary>
+            Classe de validação da Avaliacao
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdExameFisicoCommand.ExameFisicoValidation.#ctor">
+            <summary>
+            Contrutor para validacao de ExameFisico
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddFichaCommand">
+            <summary>
+            Classe Command para  Ficha
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddFichaCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddFichaCommand.FichaValidation">
+            <summary>
+            Classe de validação da Ficha
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddFichaCommand.FichaValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Ficha
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdFichaCommand">
+            <summary>
+            Classe Command para  Ficha
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdFichaCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdFichaCommand.FichaValidation">
+            <summary>
+            Classe de validação da Ficha
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdFichaCommand.FichaValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Ficha
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.CancelarFichaCommand">
+            <summary>
+            Classe Command para Cancelar Ficha
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.CancelarFichaCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.CancelarFichaCommand.FichaValidation">
+            <summary>
+            Classe de validação da Ficha
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.CancelarFichaCommand.FichaValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Ficha
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddMedicamentoCommand">
+            <summary>
+            Classe Command para Medicamento
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddMedicamentoCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddMedicamentoCommand.MedicamentoValidation">
+            <summary>
+            Classe de validação da Medicamento
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddMedicamentoCommand.MedicamentoValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Medicamento
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdMedicamentoCommand">
+            <summary>
+            Classe Command para Medicamento
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdMedicamentoCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdMedicamentoCommand.MedicamentoValidation">
+            <summary>
+            Classe de validação da Medicamento
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdMedicamentoCommand.MedicamentoValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Medicamento
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddMusculoCommand">
+            <summary>
+            Classe Command para Musculo
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddMusculoCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddMusculoCommand.MusculoValidation">
+            <summary>
+            Classe de validação da Musculo
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddMusculoCommand.MusculoValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Musculo
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdMusculoCommand">
+            <summary>
+            Classe Command para Musculo
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdMusculoCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdMusculoCommand.MusculoValidation">
+            <summary>
+            Classe de validação da Musculo
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdMusculoCommand.MusculoValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Musculo
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddObjetivosCondutasCommand">
+            <summary>
+            Classe Command para ObjetivosCondutas
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddObjetivosCondutasCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddObjetivosCondutasCommand.ObjetivosCondutasValidation">
+            <summary>
+            Classe de validação da ObjetivosCondutas
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddObjetivosCondutasCommand.ObjetivosCondutasValidation.#ctor">
+            <summary>
+            Contrutor para validacao de ObjetivosCondutas
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdObjetivosCondutasCommand">
+            <summary>
+            Classe Command para ObjetivosCondutas
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdObjetivosCondutasCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdObjetivosCondutasCommand.ObjetivosCondutasValidation">
+            <summary>
+            Classe de validação da ObjetivosCondutas
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdObjetivosCondutasCommand.ObjetivosCondutasValidation.#ctor">
+            <summary>
+            Contrutor para validacao de ObjetivosCondutas
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddPaisCommand">
+            <summary>
+            Classe Command para Atualizar Pais
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddPaisCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddPaisCommand.PaisValidation">
+            <summary>
+            Classe de validação da Pais
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddPaisCommand.PaisValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Pais
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdPaisCommand">
+            <summary>
+            Classe Command para Atualizar Pais
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdPaisCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdPaisCommand.PaisValidation">
+            <summary>
+            Classe de validação da Pais
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdPaisCommand.PaisValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Pais
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddProfissaoCommand">
+            <summary>
+            Classe Command para Profissao
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddProfissaoCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddProfissaoCommand.ProfissaoValidation">
+            <summary>
+            Classe de validação da Profissao
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddProfissaoCommand.ProfissaoValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Profissao
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdProfissaoCommand">
+            <summary>
+            Classe Command para Profissao
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdProfissaoCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdProfissaoCommand.ProfissaoValidation">
+            <summary>
+            Classe de validação da Profissao
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdProfissaoCommand.ProfissaoValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Profissao
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddProfissionalCommand">
+            <summary>
+            Classe Command para Profissional
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddProfissionalCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddProfissionalCommand.ProfissionalValidation">
+            <summary>
+            Classe de validação da Profissional
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddProfissionalCommand.ProfissionalValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Profissional
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdProfissionalCommand">
+            <summary>
+            Classe Command para Profissional
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdProfissionalCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdProfissionalCommand.ProfissionalValidation">
+            <summary>
+            Classe de validação da Profissional
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdProfissionalCommand.ProfissionalValidation.#ctor">
+            <summary>
+            Contrutor para validacao de Profissional
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddTesteForcaMuscularCommand">
+            <summary>
+            Classe Command para TesteForcaMuscular
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddTesteForcaMuscularCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddTesteForcaMuscularCommand.TesteForcaMuscularValidation">
+            <summary>
+            Classe de validação da TesteForcaMuscular
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddTesteForcaMuscularCommand.TesteForcaMuscularValidation.#ctor">
+            <summary>
+            Contrutor para validacao de TesteForcaMuscular
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdTesteForcaMuscularCommand">
+            <summary>
+            Classe Command para TesteForcaMuscular
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdTesteForcaMuscularCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdTesteForcaMuscularCommand.TesteForcaMuscularValidation">
+            <summary>
+            Classe de validação da TesteForcaMuscular
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdTesteForcaMuscularCommand.TesteForcaMuscularValidation.#ctor">
+            <summary>
+            Contrutor para validacao de TesteForcaMuscular
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddTiposAntecedentesPessoaisCommand">
+            <summary>
+            Classe Command para TiposAntecedentesPessoais
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddTiposAntecedentesPessoaisCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.AddTiposAntecedentesPessoaisCommand.TiposAntecedentesPessoaisValidation">
+            <summary>
+            Classe de validação da TiposAntecedentesPessoais
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.AddTiposAntecedentesPessoaisCommand.TiposAntecedentesPessoaisValidation.#ctor">
+            <summary>
+            Contrutor para validacao de TiposAntecedentesPessoais
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdTiposAntecedentesPessoaisCommand">
+            <summary>
+            Classe Command para TiposAntecedentesPessoais
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdTiposAntecedentesPessoaisCommand.EhValido">
+            <summary>
+            Metodo chamado para validar
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Application.Command.UpdTiposAntecedentesPessoaisCommand.TiposAntecedentesPessoaisValidation">
+            <summary>
+            Classe de validação da TiposAntecedentesPessoais
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Application.Command.UpdTiposAntecedentesPessoaisCommand.TiposAntecedentesPessoaisValidation.#ctor">
+            <summary>
+            Contrutor para validacao de AntecedentesPessoais
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Application.DTO.Filtro.ListaAutoCompleteFiltroDTO.Nome">
+            <summary>
+            Filtro por nome para busca
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Application.DTO.Filtro.ListaCheckBoxFiltroDTO.Nome">
+            <summary>
+            Filtro por nome para busca
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Application.DTO.Filtro.ListaPaginadoFiltroDTO.Nome">
+            <summary>
+            Filtro por nome para busca
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Configuration.SwaggerConfiguration.AddSwaggerConfigurationFichaAvaliacao(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Confgurações gerais do Swagger
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:FichaAvaliacao.API.Configuration.SwaggerConfiguration.UseSwaggerConfigurationFichaAvaliacao(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Configuração do Swagger
+            </summary>
+            <param name="app"></param>
+        </member>
+        <member name="P:FichaAvaliacao.API.Data.Context.BDContext.Medicamentos">
+            <summary>
+            Propriedade DbSet para criação da entidade
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Data.Context.BDContext.Profissaos">
+            <summary>
+            Propriedade DbSet para criação da entidade
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Data.Context.BDContext.Pais">
+            <summary>
+            Propriedade DbSet para criação da entidade
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Data.Context.BDContext.Estados">
+            <summary>
+            Propriedade DbSet para criação da entidade
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Data.Context.BDContext.Cadastros">
+            <summary>
+            Propriedade DbSet para criação da entidade
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Data.Context.BDContext.Profissionals">
+            <summary>
+            Propriedade DbSet para criação da entidade
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Data.Context.BDContext.Anamneses">
+            <summary>
+            Propriedade DbSet para criação da entidade
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Data.Context.BDContext.AntecedentesPessoais">
+            <summary>
+            Propriedade DbSet para criação da entidade
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Data.Context.BDContext.Avaliacaos">
+            <summary>
+            Propriedade DbSet para criação da entidade
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Data.Context.BDContext.ObjetivosCondutas">
+            <summary>
+            Propriedade DbSet para criação da entidade
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Data.Context.BDContext.Musculos">
+            <summary>
+            Propriedade DbSet para criação da entidade
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Data.Context.BDContext.Fichas">
+            <summary>
+            Propriedade DbSet para criação da entidade
+            </summary>
+        </member>
+        <member name="P:FichaAvaliacao.API.Data.Context.BDContext.Evolucaos">
+            <summary>
+            Propriedade DbSet para criação da entidade
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Data.Context.BDContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions,Microsoft.Extensions.Configuration.IConfiguration,Core.Util.Mediator.IMediatorHandler)">
+            <summary>
+            Método do construtor do contexto com parâmetro
+            </summary>
+            <param name="options">Parâmetro de opções do contexto</param>
+            <param name="mediatorHandler">Parâmetro de opções do contexto</param>
+            <param name="configuration">Parâmetro de configuração da aplicação</param>
+        </member>
+        <member name="M:FichaAvaliacao.API.Data.Context.BDContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)">
+            <summary>
+            Método de configuração do contexto
+            </summary>
+            <param name="optionsBuilder">Parâmetro de opções de construção</param>
+        </member>
+        <member name="M:FichaAvaliacao.API.Data.Context.BDContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <summary>
+            Método de criação do contexto
+            </summary>
+            <param name="modelBuilder">Parâmetro do modelo de construção</param>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Context.MediatorExtension">
+            <summary>
+            Classe Statica de Extensão do Mediantes
+            </summary>
+        </member>
+        <member name="M:FichaAvaliacao.API.Data.Context.MediatorExtension.PublicarEventos``1(Core.Util.Mediator.IMediatorHandler,``0)">
+            <summary>
+            Metodo que publica os eventos
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="mediator"></param>
+            <param name="ctx"></param>
+            <returns></returns>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.ADMMapping">
+            <summary>
+            Mapping de ADM
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.AnamneseMapping">
+            <summary>
+            Mapping de Anamnese
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.AntecedentesFamiliaresMapping">
+            <summary>
+            Mapping de AntecedentesFamiliares
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.AntecedentesPessoaisMapping">
+            <summary>
+            Mapping de AntecedentesPessoais
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.AvaliacaoSubjetivaDorMapping">
+            <summary>
+            Mapping de AvaliacaoSubjetivaDor
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.CadastroMapping">
+            <summary>
+            Mapping de Cadastro
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.EnderecoMapping">
+            <summary>
+            Mapping de Endereco
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.EstadoMapping">
+            <summary>
+            Mapping de Estado
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.EvolucaoMapping">
+            <summary>
+            Mapping de Evolucao
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.FichaMapping">
+            <summary>
+            Mapping de Ficha
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.MedicamentoMapping">
+            <summary>
+            Mapping de Medicamento
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.MusculoMapping">
+            <summary>
+            Mapping de Musculo
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.ObjetivosCondutasMapping">
+            <summary>
+            Mapping de ObjetivosCondutas
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.PaisMapping">
+            <summary>
+            Mapping de Pais
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.ProfissaoMapping">
+            <summary>
+            Mapping de Profissao
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.ProfissionalMapping">
+            <summary>
+            Mapping de Profissional
+            </summary>
+        </member>
+        <member name="T:FichaAvaliacao.API.Data.Mapping.TesteForcaMuscularMapping">
+            <summary>
+            Mapping de TesteForcaMuscular
+            </summary>
+        </member>
+    </members>
+</doc>

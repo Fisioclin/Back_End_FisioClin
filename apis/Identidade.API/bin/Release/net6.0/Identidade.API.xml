@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Identidade.API</name>
+    </assembly>
+    <members>
+        <member name="M:Posto.Identidade.API.Configuration.SwaggerConfig.AddSwaggerConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Confgurações gerais do Swagger
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Posto.Identidade.API.Configuration.SwaggerConfig.UseSwaggerConfiguration(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Configuração do Swagger
+            </summary>
+            <param name="app"></param>
+        </member>
+        <member name="M:Identidade.API.Configuration.DependencyInjectionConfig.ResolveDependencies(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Metodo que realizar as dependencias via AddScoped
+            </summary>
+            <param name="services"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Identidade.API.Configuration.JwtService.GenerateTokens(System.String,System.Collections.Generic.List{System.String},System.String,System.String,System.Collections.Generic.ICollection{System.Security.Claims.Claim},System.DateTime)">
+            <summary>
+            Generates a new token.
+            </summary>
+            <param name="username"></param>
+            <param name="claims"></param>
+            <param name="now"></param>
+            <returns>JwtAuthResult</returns>
+        </member>
+        <member name="M:Identidade.API.Configuration.JwtService.Refresh(System.String,System.Collections.Generic.List{System.String},System.String,System.String,System.DateTime)">
+            <summary>
+            Refreshes an existing access token.
+            </summary>
+            <param name="refreshToken"></param>
+            <param name="accessToken"></param>
+            <param name="now"></param>
+            <returns>JwtAuthResult</returns>
+        </member>
+        <member name="M:Identidade.API.Configuration.JwtService.DecodeJwtToken(System.String)">
+            <summary>
+            Decodes the access token so that it can be refreshed.
+            </summary>
+            <param name="token"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Identidade.API.Configuration.JwtService.GenerateRefreshTokenString">
+            <summary>
+            Generates refresh token via random numbers
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Identidade.API.Data.JwtAuthResult.AccessToken">
+            <summary>
+            Token de acesso
+            </summary>
+        </member>
+        <member name="P:Identidade.API.Data.JwtAuthResult.RefreshToken">
+            <summary>
+            Token de atualização
+            </summary>
+        </member>
+        <member name="P:Identidade.API.Data.LoginResult.Id">
+            <summary>
+            Identificador de login
+            </summary>
+        </member>
+        <member name="P:Identidade.API.Data.LoginResult.UserName">
+            <summary>
+            Nome de usuario
+            </summary>
+        </member>
+        <member name="P:Identidade.API.Data.LoginResult.AccessToken">
+            <summary>
+            Token de acesso
+            </summary>
+        </member>
+        <member name="P:Identidade.API.Data.LoginResult.RefreshToken">
+            <summary>
+            Token de atualização
+            </summary>
+        </member>
+        <member name="P:Identidade.API.Data.LoginResult.UrlImagemPerfil">
+            <summary>
+            URL da imagem de perfil
+            </summary>
+        </member>
+        <member name="P:Identidade.API.Data.LoginResult.CompanyId">
+            <summary>
+            Código da empresa
+            </summary>
+        </member>
+        <member name="P:Identidade.API.Data.RefreshToken.UserName">
+            <summary>
+            Nome de usuario
+            </summary>
+        </member>
+        <member name="P:Identidade.API.Data.RefreshToken.TokenString">
+            <summary>
+            Token de atualização
+            </summary>
+        </member>
+        <member name="P:Identidade.API.Data.RefreshToken.ExpireAt">
+            <summary>
+            Data de expiração
+            </summary>
+        </member>
+    </members>
+</doc>
