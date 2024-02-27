@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\Identidade.API\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-11-26T19:51:01.3235162Z;True|2023-11-26T15:17:20.8040416-03:00;True|2023-11-03T15:50:54.3833799-03:00;True|2023-11-03T15:20:52.8008020-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

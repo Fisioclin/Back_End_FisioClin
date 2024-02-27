@@ -1,0 +1,316 @@
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.csproj.AssemblyReference.cache
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.AssemblyInfoInputs.cache
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.AssemblyInfo.cs
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\appsettings.json
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\FichaAvaliacao.API.exe
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\FichaAvaliacao.API.deps.json
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\FichaAvaliacao.API.runtimeconfig.json
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\FichaAvaliacao.API.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\FichaAvaliacao.API.pdb
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\Core.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\Core.pdb
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\staticwebassets\msbuild.FichaAvaliacao.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\staticwebassets\msbuild.build.FichaAvaliacao.API.props
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FichaAvaliacao.API.props
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FichaAvaliacao.API.props
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\scopedcss\bundle\FichaAvaliacao.API.styles.css
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.csproj.CopyComplete
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\refint\FichaAvaliacao.API.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.pdb
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.genruntimeconfig.cache
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\ref\FichaAvaliacao.API.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\bin\Debug\net6.0\FichaAvaliacao.API.xml
+C:\Users\Luiz Felipe\Documents\Barber\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.xml
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\appsettings.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\FichaAvaliacao.API.exe
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\FichaAvaliacao.API.deps.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\FichaAvaliacao.API.runtimeconfig.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\FichaAvaliacao.API.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\FichaAvaliacao.API.pdb
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\FichaAvaliacao.API.xml
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\DnsClient.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\Core.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\bin\Debug\net6.0\Core.pdb
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.csproj.AssemblyReference.cache
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.AssemblyInfoInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.AssemblyInfo.cs
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.csproj.CoreCompileInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\staticwebassets\msbuild.FichaAvaliacao.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\staticwebassets\msbuild.build.FichaAvaliacao.API.props
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FichaAvaliacao.API.props
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FichaAvaliacao.API.props
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\scopedcss\bundle\FichaAvaliacao.API.styles.css
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.csproj.CopyComplete
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\refint\FichaAvaliacao.API.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.xml
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.pdb
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\FichaAvaliacao.API.genruntimeconfig.cache
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\FichaAvaliacao\obj\Debug\net6.0\ref\FichaAvaliacao.API.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.csproj.AssemblyReference.cache
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.AssemblyInfoInputs.cache
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.AssemblyInfo.cs
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.csproj.CoreCompileInputs.cache
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.MvcApplicationPartsAssemblyInfo.cs
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.MvcApplicationPartsAssemblyInfo.cache
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\refint\FichaAvaliacao.API.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.xml
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.pdb
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\appsettings.Development.json
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\appsettings.json
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\FichaAvaliacao.API.exe
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\FichaAvaliacao.API.deps.json
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\FichaAvaliacao.API.runtimeconfig.json
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\FichaAvaliacao.API.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\FichaAvaliacao.API.pdb
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\FichaAvaliacao.API.xml
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\AutoMapper.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\DnsClient.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\FluentValidation.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\SharpCompress.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Core.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Core.pdb
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\staticwebassets\msbuild.FichaAvaliacao.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\staticwebassets\msbuild.build.FichaAvaliacao.API.props
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FichaAvaliacao.API.props
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FichaAvaliacao.API.props
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\scopedcss\bundle\FichaAvaliacao.API.styles.css
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.csproj.CopyComplete
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.genruntimeconfig.cache
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\ref\FichaAvaliacao.API.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\EntityFramework.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\MediatR.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\appsettings.json
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\FichaAvaliacao.API.exe
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\FichaAvaliacao.API.deps.json
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\FichaAvaliacao.API.runtimeconfig.json
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\FichaAvaliacao.API.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\FichaAvaliacao.API.pdb
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\FichaAvaliacao.API.xml
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Core.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Core.pdb
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.csproj.AssemblyReference.cache
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.AssemblyInfoInputs.cache
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.AssemblyInfo.cs
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.csproj.CoreCompileInputs.cache
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.sourcelink.json
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\staticwebassets\msbuild.FichaAvaliacao.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\staticwebassets\msbuild.build.FichaAvaliacao.API.props
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FichaAvaliacao.API.props
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FichaAvaliacao.API.props
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\scopedcss\bundle\FichaAvaliacao.API.styles.css
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.csproj.CopyComplete
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\refint\FichaAvaliacao.API.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.xml
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.pdb
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\FichaAvaliacao.API.genruntimeconfig.cache
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\obj\Debug\net6.0\ref\FichaAvaliacao.API.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\apis\FichaAvaliacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
