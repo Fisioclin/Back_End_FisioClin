@@ -1,0 +1,51 @@
+C:\Users\Luiz Felipe\Documents\Barber\core\Core\bin\Release\net6.0\Core.deps.json
+C:\Users\Luiz Felipe\Documents\Barber\core\Core\bin\Release\net6.0\Core.dll
+C:\Users\Luiz Felipe\Documents\Barber\core\Core\bin\Release\net6.0\Core.pdb
+C:\Users\Luiz Felipe\Documents\Barber\core\Core\obj\Release\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Luiz Felipe\Documents\Barber\core\Core\obj\Release\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Felipe\Documents\Barber\core\Core\obj\Release\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Luiz Felipe\Documents\Barber\core\Core\obj\Release\net6.0\Core.AssemblyInfo.cs
+C:\Users\Luiz Felipe\Documents\Barber\core\Core\obj\Release\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Felipe\Documents\Barber\core\Core\obj\Release\net6.0\Core.dll
+C:\Users\Luiz Felipe\Documents\Barber\core\Core\obj\Release\net6.0\refint\Core.dll
+C:\Users\Luiz Felipe\Documents\Barber\core\Core\obj\Release\net6.0\Core.pdb
+C:\Users\Luiz Felipe\Documents\Barber\core\Core\obj\Release\net6.0\ref\Core.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\core\Core\bin\Release\net6.0\Core.deps.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\core\Core\bin\Release\net6.0\Core.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\core\Core\bin\Release\net6.0\Core.pdb
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\core\Core\obj\Release\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\core\Core\obj\Release\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\core\Core\obj\Release\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\core\Core\obj\Release\net6.0\Core.AssemblyInfo.cs
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\core\Core\obj\Release\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\core\Core\obj\Release\net6.0\Core.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\core\Core\obj\Release\net6.0\refint\Core.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\core\Core\obj\Release\net6.0\Core.pdb
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\core\Core\obj\Release\net6.0\ref\Core.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\bin\Release\net6.0\Core.deps.json
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\bin\Release\net6.0\Core.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\bin\Release\net6.0\Core.pdb
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.csproj.AssemblyReference.cache
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.AssemblyInfoInputs.cache
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.AssemblyInfo.cs
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\refint\Core.dll
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.pdb
+C:\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\ref\Core.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\bin\Release\net6.0\Core.deps.json
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\bin\Release\net6.0\Core.runtimeconfig.json
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\bin\Release\net6.0\Core.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\bin\Release\net6.0\Core.pdb
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.AssemblyInfo.cs
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.sourcelink.json
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\refint\Core.dll
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.pdb
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\Core.genruntimeconfig.cache
+C:\Users\luizf\source\source\HealthFisio\healthfisio\backend\HealthFisioBackend\help\Core\obj\Release\net6.0\ref\Core.dll

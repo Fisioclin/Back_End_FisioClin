@@ -1,0 +1,18 @@
+﻿namespace Identidade.API.Data
+{
+    public enum EnumStatus
+    {
+        ERROS_IDENTITY = 0,
+        SUCESSO = 1,
+        ERRO_MODEL_STATE = 2,
+        ERRO_CRIACAO_ROLE = 3,
+        ERRO_EMPRESA_NAO_CADASTRADA= 4,
+        ERRO_EMPRESA_NAO_CONFIRMADA = 5,
+        ERRO_TIPO_USUARIO_NAO_EXISTE = 6,
+        ERRO_USUARIO_SENHA_INCORRETOS= 7,
+        ERRO_USUARIO_BLOQUEADO= 8,
+        ERRO_USUARIO_NAO_CONFIRMADO= 9,
+        ERRO_USUARIO_NAO_ENCONTRADO= 10,
+        ERRO_CODIGO_ERRADO = 11,
+    }
+}
